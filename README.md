@@ -1,12 +1,6 @@
 
 <img width="1600" height="900" alt="swigggy" src="https://github.com/user-attachments/assets/827705a8-9b5d-48d1-b8ec-0bdd2eb266bb" />
 
-<img width="1920" height="640" alt="swiggyfood-food2" src="https://github.com/user-attachments/assets/a25ce0dd-0fd7-47b9-8b1f-d7fb20f8d509" />
-
-
-![swiggy-1](https://github.com/user-attachments/assets/8c86e001-b91f-4bac-9cf6-5f9ac95a34c1)
-
-
 # 🟠🍽 Swiggy Data Engineering Project (Snowflake + Streamlit)
 
 An end-to-end data engineering project built using **Snowflake** (via Web UI) and a **Streamlit dashboard** for visualizing Swiggy order insights.  
